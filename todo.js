@@ -118,7 +118,7 @@ class Input extends Component {
 
   componentDidMount() {
     console.log("didMount");
-    this.setState({ value: " a default todo!" });
+    this.setState({ value: "Give Presentation !" });
   }
 
   componentDidUpdate() {
